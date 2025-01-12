@@ -7,7 +7,7 @@ using System.Text.Json.Serialization;
 
 namespace ContactListApp
 {
-    // Kontaktklass
+    
     public class Contact
     {
         public Guid Id { get; set; }
@@ -30,7 +30,7 @@ namespace ContactListApp
         }
     }
 
-    // Hantering av kontakter
+    
     public class ContactManager
     {
         private readonly List<Contact> _contacts;
@@ -50,6 +50,7 @@ namespace ContactListApp
             return _contacts;
         }
 
+        // Kod genererad från  chatgpt  för att spara kontakter i json fil
         public void LoadContacts(string filePath)
         {
             if (File.Exists(filePath))
@@ -71,7 +72,7 @@ namespace ContactListApp
         }
     }
 
-    // Programlogik
+    
     class Program
     {
         private const string FilePath = "contacts.json";
