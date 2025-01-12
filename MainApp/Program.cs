@@ -186,43 +186,4 @@ namespace ContactListApp
 
 
 
-// using System.Runtime.InteropServices.Marshalling;
 
-// Console.WriteLine("Hej! Välkommen");
-
-// string name = "";
-// string email = "";
-
-// do
-// {
-//     Console.Clear();
-//     Console.Write("Ange ditt för-och efternamn: ");
-//     name = Console.ReadLine()!;
-    
-//     if (string.IsNullOrEmpty(name))
-//     {
-//         Console.WriteLine ("Du har inte angett ditt namn. Var snäll och fyll i informationen.");
-//         Console.ReadKey();
-//     }
-// }  
-// while (string.IsNullOrEmpty(name));
-
-
-// do
-// {
-//     Console.Clear();
-//     Console.Write("Ange din E-mail: ");
-//     email = Console.ReadLine()!;
-    
-//     if (string.IsNullOrEmpty(email))
-//     {
-//         Console.WriteLine ("Du har inte angett din E-mail. Var snäll och fyll i informationen.");
-//         Console.ReadKey();    
-//     }
-// }  
-// while (string.IsNullOrEmpty(email));
-
-// Console.Clear();
-// Console.WriteLine($"{name} <{email}>");
-
-// Console.ReadKey();
