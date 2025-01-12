@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "42a3edc8-9aa4-41f8-a3ab-483850dcacab",
+    "FirstName": "Anja",
+    "LastName": "Kuzmanovic",
+    "Email": "anja-kuzmanovic@hotmail.com",
+    "PhoneNumber": "0735466266",
+    "StreetAddress": "sn\u00F6f\u00E5gelgatan 41",
+    "PostalCode": "25671",
+    "City": "Helsingborg"
+  },
+  {
+    "Id": "693b3e4b-01a2-4bc2-93c0-369a5c609dfe",
+    "FirstName": "random",
+    "LastName": "random",
+    "Email": "random@hotmail.com",
+    "PhoneNumber": "12345678",
+    "StreetAddress": "random 123",
+    "PostalCode": "12345",
+    "City": "random"
+  }
+]

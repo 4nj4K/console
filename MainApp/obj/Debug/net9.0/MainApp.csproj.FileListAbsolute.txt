@@ -1,0 +1,14 @@
+/Users/anja/Desktop/console/MainApp/obj/Debug/net9.0/MainApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anja/Desktop/console/MainApp/obj/Debug/net9.0/MainApp.AssemblyInfoInputs.cache
+/Users/anja/Desktop/console/MainApp/obj/Debug/net9.0/MainApp.AssemblyInfo.cs
+/Users/anja/Desktop/console/MainApp/obj/Debug/net9.0/MainApp.csproj.CoreCompileInputs.cache
+/Users/anja/Desktop/console/MainApp/bin/Debug/net9.0/MainApp
+/Users/anja/Desktop/console/MainApp/bin/Debug/net9.0/MainApp.deps.json
+/Users/anja/Desktop/console/MainApp/bin/Debug/net9.0/MainApp.runtimeconfig.json
+/Users/anja/Desktop/console/MainApp/bin/Debug/net9.0/MainApp.dll
+/Users/anja/Desktop/console/MainApp/bin/Debug/net9.0/MainApp.pdb
+/Users/anja/Desktop/console/MainApp/obj/Debug/net9.0/MainApp.dll
+/Users/anja/Desktop/console/MainApp/obj/Debug/net9.0/refint/MainApp.dll
+/Users/anja/Desktop/console/MainApp/obj/Debug/net9.0/MainApp.pdb
+/Users/anja/Desktop/console/MainApp/obj/Debug/net9.0/MainApp.genruntimeconfig.cache
+/Users/anja/Desktop/console/MainApp/obj/Debug/net9.0/ref/MainApp.dll
